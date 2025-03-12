@@ -1,1 +1,1 @@
-# cpp-project1
+This C++ program is a versatile calculator that allows users to perform various mathematical operations, including addition, subtraction, multiplication, division, logarithm (with a custom base), and modulus. It prompts the user to select an operation, input the required number of values, and then computes and displays the result. The program also includes error handling to prevent invalid operations, such as division by zero or invalid logarithm inputs.
